@@ -15,8 +15,7 @@ Uncomment the "return PASS;" and your bot will be free to roam the board alone.
 
 ====
 
-My aim was to make a very basic bot with a simple algorithm and to use this as an exercise to play with JS. This 
-is implemented in the mybot.js file.
+My aim was to make a very basic bot with a simple algorithm and to use this as an exercise to play with JS. This is implemented in the mybot.js file.
 This bot may be tested locally by opening game.html.
 You can see this bot's live performance at http://www.scribd.com/jobs/botrace_rankings - the bot's names are (various versions for different parameter tweaking) 'Noobot vx.y.z'. The best is currently ranked 321/766.
 
